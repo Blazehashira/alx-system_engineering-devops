@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n <start>,<end>
+grep -n *
